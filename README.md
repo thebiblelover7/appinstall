@@ -4,7 +4,7 @@ Installs and changes all my configs
 
 ```
 wget https://mega.nz/linux/MEGAsync/Debian_10.0/amd64/megasync-Debian_10.0_amd64.deb
-sudo apt install 
+sudo apt install vlc inkscape kdenlive
 ```
 
 Installs/Clones material-awesome
